@@ -1,0 +1,8 @@
+a1 = 100
+k = 9/10
+s = 0
+
+for i in range(8):
+    s = s + a
+    print(i+1, round(a), round(s))
+    a = a*k
