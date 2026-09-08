@@ -1,5 +1,6 @@
 a1 = 100
 k = 9/10
+a = a1  
 s = 0
 
 for i in range(8):
